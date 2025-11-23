@@ -1,6 +1,7 @@
 #Project
 melo/data/
 melo/logs/
+melo/model/
 
 
 # Byte-compiled / optimized / DLL files
